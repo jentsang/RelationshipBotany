@@ -1,6 +1,6 @@
 # Relationship Botany 🪴
 
-> A cozy, 2D pixel-art personality quiz that dynamically grows a digital plant as you answer questions, playfully mapping your psychological attachment style to its perfect botanical match.
+> A cozy, 2D pixel-art personality quiz that dynamically grows a digital plant as you answer questions, playfully mapping your psychological attachment style to its botanical match.
 
 ## 🔗 Live Prototype
 [**Click here to view the interactive Figma Prototype**](https://safari-jog-16403291.figma.site/)
